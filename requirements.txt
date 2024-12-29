@@ -1,0 +1,7 @@
+flask>=2.0.0
+flask-sqlalchemy
+flask-migrate
+werkzeug
+flask-cors
+pyjwt
+python-dotenv
